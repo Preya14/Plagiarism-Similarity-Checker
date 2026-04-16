@@ -47,5 +47,5 @@ Try the web version here:
 
 ### Instructions:
 - Enter two texts
-- Press Enter after each input
+- Press Compare texts
 - View similarity percentage and common words
