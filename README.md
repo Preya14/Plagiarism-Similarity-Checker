@@ -39,3 +39,13 @@ Similarity (%) = (2 × LCS length) / (len1 + len2) × 100
 ```bash
 javac src/*.java
 java -cp src Main
+
+## 🌐 Web Demo
+
+Try the web version here:
+👉 https://java-link-maker--preyagajjar.replit.app
+
+### Instructions:
+- Enter two texts
+- Press Enter after each input
+- View similarity percentage and common words
